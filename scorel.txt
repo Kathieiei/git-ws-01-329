@@ -1,1 +1,1 @@
-Thitis
+Score = 25
